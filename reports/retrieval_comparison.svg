@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="400" viewBox="0 0 760 400" role="img" aria-label="Benchmark Recall at 5 and MRR at 5 bar chart">
+<rect width="760" height="400" fill="#f7f9fd"/><text x="40" y="38" font-size="21" fill="#152640" font-family="Arial">GroundLens — held-out retrieval</text>
+<text x="40" y="66" font-size="13" fill="#5a6575" font-family="Arial">52 fictional queries total; metrics on 24 answerable test queries</text>
+<g font-family="Arial" font-size="14" fill="#26364b"><text x="32" y="122">BM25</text><text x="32" y="205">TF-IDF</text><text x="32" y="288">Hybrid RRF</text></g>
+<g fill="#265fbd"><rect x="155" y="99" width="465" height="22" rx="4"/><rect x="155" y="182" width="465" height="22" rx="4"/><rect x="155" y="265" width="465" height="22" rx="4"/></g>
+<g fill="#24a9ac"><rect x="155" y="126" width="436" height="18" rx="3"/><rect x="155" y="209" width="455" height="18" rx="3"/><rect x="155" y="292" width="446" height="18" rx="3"/></g>
+<g font-family="Arial" font-size="13" fill="#152640"><text x="632" y="116">1.000</text><text x="604" y="141">0.939</text><text x="632" y="199">1.000</text><text x="622" y="224">0.979</text><text x="632" y="282">1.000</text><text x="613" y="307">0.958</text></g>
+<g font-family="Arial" font-size="13" fill="#26364b"><rect x="155" y="346" width="16" height="12" fill="#265fbd"/><text x="179" y="357">Recall@5</text><rect x="294" y="346" width="16" height="12" fill="#24a9ac"/><text x="318" y="357">MRR@5</text></g>
+</svg>
