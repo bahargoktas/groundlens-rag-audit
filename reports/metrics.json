@@ -1,0 +1,57 @@
+{
+  "dataset": {
+    "documents": 55,
+    "active_documents": 47,
+    "dev_queries": 18,
+    "test_queries": 34,
+    "test_answerable": 24,
+    "test_unanswerable": 10
+  },
+  "methods": {
+    "bm25": {
+      "recall@1": 0.9166666666666666,
+      "recall@5": 1,
+      "mrr@5": 0.9388888888888888,
+      "ndcg@5": 0.9536188669681058,
+      "supported_citation_rate": 0.7916666666666666,
+      "unanswerable_false_citation_rate": 0,
+      "answered_count": 19,
+      "abstained_count": 15,
+      "dev_calibration": {
+        "threshold": 0.496586776553104,
+        "dev_supported": 0.9166666666666666,
+        "dev_false": 0
+      }
+    },
+    "tfidf": {
+      "recall@1": 0.9583333333333334,
+      "recall@5": 1,
+      "mrr@5": 0.9791666666666666,
+      "ndcg@5": 0.9846220730654774,
+      "supported_citation_rate": 0.7916666666666666,
+      "unanswerable_false_citation_rate": 0,
+      "answered_count": 19,
+      "abstained_count": 15,
+      "dev_calibration": {
+        "threshold": 0.496586776553104,
+        "dev_supported": 0.9166666666666666,
+        "dev_false": 0
+      }
+    },
+    "hybrid": {
+      "recall@1": 0.9166666666666666,
+      "recall@5": 1,
+      "mrr@5": 0.9583333333333334,
+      "ndcg@5": 0.9692441461309548,
+      "supported_citation_rate": 0.7916666666666666,
+      "unanswerable_false_citation_rate": 0,
+      "answered_count": 19,
+      "abstained_count": 15,
+      "dev_calibration": {
+        "threshold": 0.496586776553104,
+        "dev_supported": 0.9166666666666666,
+        "dev_false": 0
+      }
+    }
+  }
+}
