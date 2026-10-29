@@ -1,0 +1,1 @@
+{"name":"groundlens", "corpus":"data/corpus.jsonl", "queries":"data/queries.jsonl", "split":"dev_test", "max_dev_fpr":0.1, "methods":["bm25","tfidf","hybrid"], "top_k":5}
