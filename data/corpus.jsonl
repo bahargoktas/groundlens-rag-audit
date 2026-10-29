@@ -1,0 +1,55 @@
+{"id": "kb_api_rotation", "title": "API key rotation", "body": "Production API keys are rotated every 60 days.", "status": "active"}
+{"id": "kb_password_reset", "title": "Password reset", "body": "Employees must reset temporary passwords within 24 hours of issue.", "status": "active"}
+{"id": "kb_incident_alert", "title": "Incident escalation", "body": "A severity one incident must be escalated to the response lead within 15 minutes.", "status": "active"}
+{"id": "kb_backups", "title": "Backup frequency", "body": "Encrypted backups run every six hours and are retained for 30 days.", "status": "active"}
+{"id": "kb_disaster_drills", "title": "Recovery drills", "body": "Disaster recovery restoration drills are performed on the first Monday of each quarter.", "status": "active"}
+{"id": "kb_travel_receipts", "title": "Travel receipts", "body": "Travel expense receipts must be submitted within 10 business days of return.", "status": "active"}
+{"id": "kb_remote_work", "title": "Remote work", "body": "Remote employees must use the company VPN on untrusted networks.", "status": "active"}
+{"id": "kb_visitor_badges", "title": "Visitor badges", "body": "All office visitors receive a temporary badge that expires at 6 PM the same day.", "status": "active"}
+{"id": "kb_lost_badges", "title": "Lost badges", "body": "A lost employee building badge must be reported to security within one hour.", "status": "active"}
+{"id": "kb_asset_returns", "title": "Equipment return", "body": "Company laptops must be returned within five business days of offboarding.", "status": "active"}
+{"id": "kb_training", "title": "Annual training", "body": "Security awareness training is required annually for all employees.", "status": "active"}
+{"id": "kb_vendor_review", "title": "Vendor assessment", "body": "High-risk suppliers undergo a formal assessment every 12 months.", "status": "active"}
+{"id": "kb_change_approval", "title": "Change approval", "body": "Production deployments require review and approval by two independent maintainers.", "status": "active"}
+{"id": "kb_release_freeze", "title": "Release freeze", "body": "Production releases are frozen between December 20 and January 3.", "status": "active"}
+{"id": "kb_monitoring", "title": "Service monitoring", "body": "Critical service health checks execute every two minutes.", "status": "active"}
+{"id": "kb_retention", "title": "Audit log retention", "body": "System audit logs are retained for 400 days in encrypted storage.", "status": "active"}
+{"id": "kb_data_exports", "title": "Data exports", "body": "Customer export requests are fulfilled within seven business days after verification.", "status": "active"}
+{"id": "kb_access_review", "title": "Access reviews", "body": "Privileged user permissions are reviewed every 90 days.", "status": "active"}
+{"id": "kb_onboarding", "title": "New-hire onboarding", "body": "New employees complete the security checklist before receiving production access.", "status": "active"}
+{"id": "kb_phishing", "title": "Phishing reports", "body": "Suspected phishing messages must be forwarded to the security mailbox immediately.", "status": "active"}
+{"id": "kb_encryption", "title": "Transport encryption", "body": "Public APIs must support TLS version 1.3 or newer.", "status": "active"}
+{"id": "kb_patches", "title": "Emergency patching", "body": "Critical security patches are deployed within 48 hours of validation.", "status": "active"}
+{"id": "kb_employee_keys", "title": "SSH key policy", "body": "Employee SSH keys must be renewed once every 180 days.", "status": "active"}
+{"id": "kb_production_secrets", "title": "Secrets storage", "body": "Production service credentials must be kept in the managed secrets vault.", "status": "active"}
+{"id": "kb_project_archive", "title": "Project archiving", "body": "Inactive project repositories are archived after 120 days without activity.", "status": "active"}
+{"id": "kb_survey_anonymity", "title": "Survey privacy", "body": "Anonymous staff surveys suppress results for groups smaller than seven people.", "status": "active"}
+{"id": "kb_meeting_notes", "title": "Meeting notes", "body": "Internal meeting notes are published to the team portal within two business days.", "status": "active"}
+{"id": "kb_office_hours", "title": "Office hours", "body": "The facilities help desk operates from 8 AM until 6 PM on weekdays.", "status": "active"}
+{"id": "kb_code_review", "title": "Pull request review", "body": "Each feature pull request requires at least one independent reviewer.", "status": "active"}
+{"id": "kb_load_tests", "title": "Load testing", "body": "Customer-facing services receive a load test before each quarterly major release.", "status": "active"}
+{"id": "kb_database_migration", "title": "Database migration", "body": "Schema migrations must include a documented rollback procedure.", "status": "active"}
+{"id": "kb_sla", "title": "Response-time target", "body": "The standard support response-time target is four business hours.", "status": "active"}
+{"id": "kb_risk_register", "title": "Risk register", "body": "Product risk registers are reviewed by owners every month.", "status": "active"}
+{"id": "kb_user_research", "title": "User interviews", "body": "Product research interviews require recorded consent before any recording begins.", "status": "active"}
+{"id": "kb_data_deletion", "title": "Data deletion", "body": "Verified account deletion requests are completed within 30 calendar days.", "status": "active"}
+{"id": "kb_service_accounts", "title": "Service accounts", "body": "Service account permissions must follow least privilege and have a named owner.", "status": "active"}
+{"id": "kb_contract_review", "title": "Contract review", "body": "Legal review is required for vendor contracts exceeding 25000 dollars.", "status": "active"}
+{"id": "kb_reimbursement", "title": "Meal reimbursement", "body": "Meal reimbursement is limited to 35 dollars per employee per day.", "status": "active"}
+{"id": "kb_community_events", "title": "Community events", "body": "Public community events require an accessibility checklist before publication.", "status": "active"}
+{"id": "kb_ticket_triage", "title": "Support triage", "body": "Incoming urgent support tickets are triaged within 20 minutes.", "status": "active"}
+{"id": "kb_data_labels", "title": "Label versioning", "body": "Training data label schema changes must increment the dataset version number.", "status": "active"}
+{"id": "kb_metrics_alerts", "title": "Metrics alerts", "body": "Metric alert rules receive a monthly false-positive review.", "status": "active"}
+{"id": "kb_hardware_inventory", "title": "Hardware inventory", "body": "Assigned workstations are inventoried twice each year.", "status": "active"}
+{"id": "kb_device_lock", "title": "Device lock", "body": "Managed devices lock automatically after ten idle minutes.", "status": "active"}
+{"id": "kb_meeting_rooms", "title": "Room reservations", "body": "Meeting rooms may be reserved at most 45 days ahead.", "status": "active"}
+{"id": "kb_conference_approval", "title": "Conference attendance", "body": "International conference travel requires manager signoff before booking.", "status": "active"}
+{"id": "kb_contractor_access", "title": "Contractor access", "body": "Contractor production access expires automatically after 14 days.", "status": "active"}
+{"id": "old_api_rotation", "title": "Superseded: API key rotation", "body": "Historical policy draft, superseded by a later version: Production API keys are rotated every 60 days.", "status": "superseded"}
+{"id": "old_password_reset", "title": "Superseded: Password reset", "body": "Historical policy draft, superseded by a later version: Employees must reset temporary passwords within 24 hours of issue.", "status": "superseded"}
+{"id": "old_incident_alert", "title": "Superseded: Incident escalation", "body": "Historical policy draft, superseded by a later version: A severity one incident must be escalated to the response lead within 15 minutes.", "status": "superseded"}
+{"id": "old_backups", "title": "Superseded: Backup frequency", "body": "Historical policy draft, superseded by a later version: Encrypted backups run every six hours and are retained for 30 days.", "status": "superseded"}
+{"id": "old_disaster_drills", "title": "Superseded: Recovery drills", "body": "Historical policy draft, superseded by a later version: Disaster recovery restoration drills are performed on the first Monday of each quarter.", "status": "superseded"}
+{"id": "old_travel_receipts", "title": "Superseded: Travel receipts", "body": "Historical policy draft, superseded by a later version: Travel expense receipts must be submitted within 10 business days of return.", "status": "superseded"}
+{"id": "old_remote_work", "title": "Superseded: Remote work", "body": "Historical policy draft, superseded by a later version: Remote employees must use the company VPN on untrusted networks.", "status": "superseded"}
+{"id": "old_visitor_badges", "title": "Superseded: Visitor badges", "body": "Historical policy draft, superseded by a later version: All office visitors receive a temporary badge that expires at 6 PM the same day.", "status": "superseded"}
