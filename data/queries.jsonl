@@ -1,0 +1,52 @@
+{"id": "dev_a_01", "text": "How often should live API keys be rotated?", "split": "dev", "evidence_ids": ["kb_api_rotation"]}
+{"id": "dev_a_02", "text": "How long can a temporary password stay active?", "split": "dev", "evidence_ids": ["kb_password_reset"]}
+{"id": "dev_a_03", "text": "When is a severity one incident escalated?", "split": "dev", "evidence_ids": ["kb_incident_alert"]}
+{"id": "dev_a_04", "text": "How frequently are encrypted backups created?", "split": "dev", "evidence_ids": ["kb_backups"]}
+{"id": "dev_a_05", "text": "When do disaster recovery drills happen?", "split": "dev", "evidence_ids": ["kb_disaster_drills"]}
+{"id": "dev_a_06", "text": "How soon after travel are receipts due?", "split": "dev", "evidence_ids": ["kb_travel_receipts"]}
+{"id": "dev_a_07", "text": "What should remote employees use on public networks?", "split": "dev", "evidence_ids": ["kb_remote_work"]}
+{"id": "dev_a_08", "text": "When does a visitor badge expire?", "split": "dev", "evidence_ids": ["kb_visitor_badges"]}
+{"id": "dev_a_09", "text": "How quickly must staff report a lost badge?", "split": "dev", "evidence_ids": ["kb_lost_badges"]}
+{"id": "dev_a_10", "text": "When do departing staff return their laptop?", "split": "dev", "evidence_ids": ["kb_asset_returns"]}
+{"id": "dev_a_11", "text": "How often is security awareness training required?", "split": "dev", "evidence_ids": ["kb_training"]}
+{"id": "dev_a_12", "text": "How often must high-risk suppliers be reviewed?", "split": "dev", "evidence_ids": ["kb_vendor_review"]}
+{"id": "test_a_13", "text": "How many maintainers approve a production deployment?", "split": "test", "evidence_ids": ["kb_change_approval"]}
+{"id": "test_a_14", "text": "What dates is the production release freeze?", "split": "test", "evidence_ids": ["kb_release_freeze"]}
+{"id": "test_a_15", "text": "At what interval are critical service health checks run?", "split": "test", "evidence_ids": ["kb_monitoring"]}
+{"id": "test_a_16", "text": "How long are system audit logs kept?", "split": "test", "evidence_ids": ["kb_retention"]}
+{"id": "test_a_17", "text": "When is a verified export request completed?", "split": "test", "evidence_ids": ["kb_data_exports"]}
+{"id": "test_a_18", "text": "How frequently are privileged access rights checked?", "split": "test", "evidence_ids": ["kb_access_review"]}
+{"id": "test_a_19", "text": "What must new hires complete before production access?", "split": "test", "evidence_ids": ["kb_onboarding"]}
+{"id": "test_a_20", "text": "Where should suspected phishing email be forwarded?", "split": "test", "evidence_ids": ["kb_phishing"]}
+{"id": "test_a_21", "text": "Which minimum TLS version is required for public APIs?", "split": "test", "evidence_ids": ["kb_encryption"]}
+{"id": "test_a_22", "text": "What is the deadline for deploying a validated critical patch?", "split": "test", "evidence_ids": ["kb_patches"]}
+{"id": "test_a_23", "text": "How often are employee SSH keys replaced?", "split": "test", "evidence_ids": ["kb_employee_keys"]}
+{"id": "test_a_24", "text": "Where should production service credentials be stored?", "split": "test", "evidence_ids": ["kb_production_secrets"]}
+{"id": "test_a_25", "text": "After how many inactive days is a project repository archived?", "split": "test", "evidence_ids": ["kb_project_archive"]}
+{"id": "test_a_26", "text": "What is the minimum size for reporting a survey group?", "split": "test", "evidence_ids": ["kb_survey_anonymity"]}
+{"id": "test_a_27", "text": "When are internal meeting notes published?", "split": "test", "evidence_ids": ["kb_meeting_notes"]}
+{"id": "test_a_28", "text": "During which hours is the facilities desk staffed?", "split": "test", "evidence_ids": ["kb_office_hours"]}
+{"id": "test_a_29", "text": "How many independent reviews are required for a feature PR?", "split": "test", "evidence_ids": ["kb_code_review"]}
+{"id": "test_a_30", "text": "When must customer-facing services run a load test?", "split": "test", "evidence_ids": ["kb_load_tests"]}
+{"id": "test_a_31", "text": "What must accompany a database schema migration?", "split": "test", "evidence_ids": ["kb_database_migration"]}
+{"id": "test_a_32", "text": "What is the standard support response-time target?", "split": "test", "evidence_ids": ["kb_sla"]}
+{"id": "test_a_33", "text": "How often do owners review the product risk register?", "split": "test", "evidence_ids": ["kb_risk_register"]}
+{"id": "test_a_34", "text": "What is required before recording user interviews?", "split": "test", "evidence_ids": ["kb_user_research"]}
+{"id": "test_a_35", "text": "How long may a verified deletion request take?", "split": "test", "evidence_ids": ["kb_data_deletion"]}
+{"id": "test_a_36", "text": "What ownership rule applies to service accounts?", "split": "test", "evidence_ids": ["kb_service_accounts"]}
+{"id": "dev_u_01", "text": "What is the price of premium dental coverage?", "split": "dev", "evidence_ids": []}
+{"id": "dev_u_02", "text": "What is the annual cryptocurrency trading limit?", "split": "dev", "evidence_ids": []}
+{"id": "dev_u_03", "text": "When are employee pets vaccinated?", "split": "dev", "evidence_ids": []}
+{"id": "dev_u_04", "text": "Which private aircraft routes are approved?", "split": "dev", "evidence_ids": []}
+{"id": "dev_u_05", "text": "How does the company support underwater archaeology?", "split": "dev", "evidence_ids": []}
+{"id": "dev_u_06", "text": "How long is the oceanic cargo shipping delay?", "split": "dev", "evidence_ids": []}
+{"id": "test_u_01", "text": "When must a contractor visitor badge be renewed?", "split": "test", "evidence_ids": []}
+{"id": "test_u_02", "text": "What is the employee parking garage hourly rate?", "split": "test", "evidence_ids": []}
+{"id": "test_u_03", "text": "How often are company-owned helicopters inspected?", "split": "test", "evidence_ids": []}
+{"id": "test_u_04", "text": "What is the annual renewable energy rebate?", "split": "test", "evidence_ids": []}
+{"id": "test_u_05", "text": "Who approves borrowing books from the public library?", "split": "test", "evidence_ids": []}
+{"id": "test_u_06", "text": "How long is the company cafeteria open on Sunday?", "split": "test", "evidence_ids": []}
+{"id": "test_u_07", "text": "How many days of parental leave are provided?", "split": "test", "evidence_ids": []}
+{"id": "test_u_08", "text": "What is the deadline to reimburse personal internet bills?", "split": "test", "evidence_ids": []}
+{"id": "test_u_09", "text": "What are the rules for renting company vehicles?", "split": "test", "evidence_ids": []}
+{"id": "test_u_10", "text": "Which doctor approves an employee medical procedure?", "split": "test", "evidence_ids": []}
