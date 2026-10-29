@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "groundlens-rag-audit"
+version = "0.1.0"
+description = "Offline evidence retrieval, calibrated abstention, and citation auditing"
+requires-python = ">=3.10"
+readme = "README.md"
+license = {file = "LICENSE"}
+dependencies = ["numpy>=1.24,<3", "scikit-learn>=1.3,<2", "matplotlib>=3.7,<4"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10"]
+
+[project.scripts]
+groundlens = "groundlens.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
